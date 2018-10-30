@@ -1,2 +1,2 @@
-let aa = KYSwiftExtension(text: "hahahha")
-print("hello KYExtension--\(aa.text)")
+let aa = KYSwiftExtension("hahahha")
+print("hello KYExtension--\(aa.num)")
