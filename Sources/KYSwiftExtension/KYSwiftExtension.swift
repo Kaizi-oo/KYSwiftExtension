@@ -1,4 +1,4 @@
-struct KYSwiftExtension {
+public struct KYSwiftExtension {
     var text = "KYSwiftExtension"
     
     public init(text: String) {
